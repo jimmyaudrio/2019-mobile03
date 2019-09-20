@@ -23,7 +23,7 @@
 		android:layout_height="wrap_content"
 		android:layout_marginTop="8dp"
 		android:fontFamily="@font/montserrat_semi_bold"
-		android:text="Welcome To dobols"
+		android:text="Welcome To Acab"
 		android:textColor="#313131"
 		android:textSize="24sp"
 		app:layout_constraintEnd_toEndOf="parent"
